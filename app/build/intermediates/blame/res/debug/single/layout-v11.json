@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout-v11\\abc_screen_content_include.xml"
+    }
+]

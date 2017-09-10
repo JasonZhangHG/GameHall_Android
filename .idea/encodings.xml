@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/androidteris/CustomRegisterPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/androidteris/GameOver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/logo.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/logo.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/welcomebg.png" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

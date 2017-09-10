@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/llKindActivityAll"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gameback1"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#8DEEEE"
+        android:text="游戏平台"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:gravity="center"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+        <Button
+            android:id="@+id/btnGameDaTingActivityXiuXian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textColor="#ffff00"
+            android:background="@drawable/login_btn_register_false"
+            android:layout_gravity="center_horizontal"
+            android:text="休闲益智" />
+        <Button
+            android:id="@+id/btnGameDaTingActivityDongZuo"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:textColor="#ffff00"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:background="@drawable/login_btn_register_false"
+            android:text="动作冒险" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+        <Button
+            android:id="@+id/btnGameDaTingActivityQiPai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textColor="#ffff00"
+            android:background="@drawable/login_btn_register_false"
+            android:layout_gravity="center_horizontal"
+            android:text="棋牌天地" />
+        <Button
+            android:id="@+id/btnGameDaTingActivityFeiXing"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:textColor="#ffff00"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:background="@drawable/login_btn_register_false"
+            android:text="飞行射击" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+        <Button
+            android:id="@+id/btnGameDaTingActivityKaPai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textColor="#ffff00"
+            android:background="@drawable/login_btn_register_false"
+            android:layout_gravity="center_horizontal"
+            android:text="卡牌游戏" />
+        <Button
+            android:id="@+id/btnGameDaTingActivityMoNi"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:textColor="#ffff00"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:background="@drawable/login_btn_register_false"
+            android:text="模拟经营" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+        <Button
+            android:id="@+id/btnGameDaTingActivityTiYu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:textColor="#ffff00"
+            android:background="@drawable/login_btn_register_false"
+            android:layout_gravity="center_horizontal"
+            android:text="体育竞技" />
+        <Button
+            android:id="@+id/btnGameDaTingActivityErLuoShi"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:textColor="#ffff00"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:background="@drawable/login_btn_register_false"
+            android:text="俄罗斯方块" />
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:textColor="#ffffff"
+         android:textSize="15sp"
+        android:text="游戏开发：\n\n
+&#160;&#160;首先启动页为欢迎页，欢迎页持续时间为0.5秒，然后进入游戏平台页 游戏平台页有八个Button 前七个为游戏分类 点击跳转到一个WEB游戏平台 最后一个跳转到俄罗斯方块游戏页 俄罗斯方块主页有方块设置页 音乐设置页 游戏介绍页还有开始游戏页 游戏主要运用Android的activity，service
+和 SharedPreferences，Activity主要用于界面的实现 intent实现跳转，service和SharedPreferences主要用于背景音乐和游戏音效的配置。
+"
+        
+        />
+    
+
+</LinearLayout>

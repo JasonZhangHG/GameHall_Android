@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_1428a070fa7fe406cb8bab2f810f3fb9423e0426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_5cee132e936f372fbcd997d20ff989efbd4381c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_b4d4777b58f9cdead7613c6223ee56521f4bad96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_10f082086a4ffb6f838b3e0c64941eff798eb208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Json\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_48e2068b08d6c11d7ca6d7dbdb9adb3ed9a0dba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Json\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_870dec1db1c9931dd95485ce5d2020b5bf0435d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Json\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_fafcfad021c360e16893e8620c4d3b03d1ed26b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_70482ded1a98d43273727625a7a49404f9c97d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NewStudentProject\GamePingTai\GameHall\app\libs\BmobSDK_V3.4.5_1111.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44e559d18fd5a4826b0a4c0354308213e4f658a2">
+        <dex dex="D:\NewStudentProject\GamePingTai\GameHall\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.5_1111_0c212c8f06faffd63dc670609d40f17441682367.jar" />
+    </item>
+
+</items>

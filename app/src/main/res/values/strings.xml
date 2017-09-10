@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTeris6.0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="account_wrong">账户名有误</string>
+    <string name="password_wrong">密码有误</string>
+    <string name="get_data_faile">数据获取失败</string>
+    <string name="players3_get_data_faile">players3数据获取失败</string>
+    <string name="get_data_faile1">数据获取失败1</string>
+    <string name="get_data_faile2">数据获取失败2</string>
+    <string name="plase_login">请登录</string>
+    <string name="regiest_success">注册成功</string>
+    <string name="regoset_faile">注册失败</string>
+    <string name="account_have_already">账户名已存在</string>
+    <string name="data_upload_success">数据上传成功</string>
+    <string name="data_upload_faile">数据上传失败</string>
+
+
+</resources>

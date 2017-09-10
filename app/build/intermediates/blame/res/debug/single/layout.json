@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music_page.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\music_page.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_rank.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\custom_rank.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_part.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\record_part.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_page.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\register_page.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_record.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\custom_record.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_4.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\context_4.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_info.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\custom_info.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_login.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\custom_login.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wele_come.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\activity_wele_come.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_login.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\custom_login.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_part.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\record_part.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_record.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\custom_record.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_3.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\context_3.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_rank.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\custom_rank.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_info.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\custom_info.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_3.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\context_3.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_activity.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\about_activity.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_1.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\context_1.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music_page.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\music_page.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_1.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\context_1.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_register.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\custom_register.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_over.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\game_over.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wele_come.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\activity_wele_come.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_page.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\setting_page.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_da_ting.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\activity_game_da_ting.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_register.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\custom_register.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_ping_tai.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\activity_game_ping_tai.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_da_ting.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\activity_game_da_ting.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_2.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\context_2.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_page.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\setting_page.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game_ping_tai.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\activity_game_ping_tai.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_activity.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\about_activity.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_page.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\register_page.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_over.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\game_over.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_2.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\src\\main\\res\\layout\\context_2.xml"
+    },
+    {
+        "merged": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\NewStudentProject\\GamePingTai\\GameHall\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_4.xml",
+        "source": "D:\\51job\\TongXinProject\\AndroidTeris6.0\\app\\src\\main\\res\\layout\\context_4.xml"
+    }
+]
